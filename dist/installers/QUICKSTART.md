@@ -1,4 +1,4 @@
-# ShipFast 快速开始 · Quick Start
+﻿# ShipFast 快速开始 · Quick Start
 
 > **发行版本 Release:** `0.20.0`  
 > **文档 · Document:** 中英双语合订 · Bilingual (中文 first, then English)
@@ -15,7 +15,6 @@
 | `ShipFast-0.20.0-linux-*.tar.gz` | Linux CLI（amd64 / arm64） |
 | `ShipFast-0.20.0-darwin-*.tar.gz` | macOS CLI（Intel / Apple Silicon） |
 | `ShipFast-Agent-0.20.0-linux-*.tar.gz` | Linux Agent（装在你的 VPS） |
-| `ShipFast-Discovery-0.20.0-*.tar.gz` / `.zip` | Discovery（多平台） |
 | `SHA256SUMS` | 安装包校验 |
 | `README.md` | 产品说明（中英双语） |
 
@@ -224,7 +223,6 @@ shipfast upgrade
 | `ShipFast-0.20.0-linux-*.tar.gz` | Linux CLI (amd64 / arm64) |
 | `ShipFast-0.20.0-darwin-*.tar.gz` | macOS CLI |
 | `ShipFast-Agent-0.20.0-linux-*.tar.gz` | Linux Agent (on your VPS) |
-| `ShipFast-Discovery-0.20.0-*.tar.gz` / `.zip` | Discovery (multi-platform) |
 | `SHA256SUMS` | Checksums |
 | `README.md` | Product overview (bilingual) |
 
@@ -396,3 +394,4 @@ shipfast upgrade
 ---
 
 *ShipFast 0.20.0 · 写代码是 IDEA 的事，上线是 ShipFast 的事。*
+
